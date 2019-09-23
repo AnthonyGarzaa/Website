@@ -7,7 +7,7 @@ h1, h3 {
     border: 5px solid black;
 }
 
-p, ul {
+p, ul, a {
     
     font-size: 20px;
     font-family: Calibri;
